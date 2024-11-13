@@ -1,0 +1,11 @@
+# Ignorer le dossier de compilation
+/build
+
+# Ignorer les fichiers binaires générés
+*.o
+*.exe
+*.out
+
+# Ignorer les fichiers système
+.DS_Store
+
